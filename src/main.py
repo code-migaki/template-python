@@ -1,5 +1,8 @@
+from practice0.practice import run
+
+
 def main():
-    print("Hello from python!")
+    run()
 
 
 if __name__ == "__main__":
