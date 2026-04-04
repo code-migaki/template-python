@@ -1,0 +1,9 @@
+{
+  "editor.formatOnSave": true,
+  "[python]": {
+    "editor.defaultFormatter": "charliermarsh.ruff"
+  },
+  "files.insertFinalNewline": true,
+  "files.eol": "\n",
+  "chat.disableAIFeatures": true
+}
